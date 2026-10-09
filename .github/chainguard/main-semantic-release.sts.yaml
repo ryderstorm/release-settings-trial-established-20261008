@@ -1,4 +1,4 @@
 issuer: https://token.actions.githubusercontent.com
 subject: "repo:ryderstorm@3799823/release-settings-trial-established-20261008@1411239153:ref:refs/heads/trunk"
 permissions:
-  contents: read
+  contents: write
