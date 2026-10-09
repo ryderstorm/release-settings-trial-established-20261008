@@ -1,0 +1,13 @@
+{
+  "rest": {
+    "default_branch": "trunk",
+    "has_issues": true,
+    "has_wiki": false
+  },
+  "graphql": {
+    "mergeCommitAllowed": false,
+    "squashMergeAllowed": true,
+    "rebaseMergeAllowed": false,
+    "deleteBranchOnMerge": true
+  }
+}
